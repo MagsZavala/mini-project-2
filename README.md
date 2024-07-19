@@ -46,8 +46,9 @@ Contributions to this project are welcome. Please follow the guidelines outlined
 Questions
 If you have any questions about the project, feel free to reach out:
 
-GitHub: MagzZavala
+GitHub: MagzZavala git@github.com:MagsZavala/mini-project-2.git
 Email: zavala.magali@yahoo.com
+file:///Users/magoo/bootcamp/class_challenges/mini-project-2/indext.html
 License
 This project is licensed under the MIT License.
 
